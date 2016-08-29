@@ -1,9 +1,9 @@
-// link to jquery
-// create script
-// document ready
+// Link to jquery.
+// Create script
+// Document ready
 // populate the dropdown list, include "placeholder text"
-//Options for dropdown will include, city name and class name for image.
-// asign handler for when a selection changes
+// Options for dropdown will include, city name and class name for image.
+// Asign handler for when a selection changes.
 // Set class to show appropriate image for city chosen in dropdown
 
 $(document).ready(function () {
